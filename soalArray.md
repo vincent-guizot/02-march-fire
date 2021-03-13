@@ -25,11 +25,12 @@ let pantun = "makan nasi bayar pake paku"
 Kelompokkan buah sesuai abjad dari A - Z
 
 ```javascript
-   //Input : ['blueberry','apple','orange','anggur','banana']
+   //Input : ['blueberry','apple','orange','anggur','banana','pineapple']
    /*Output : [
        ['anggur','apple'],
        ['banana','blueberry'],
-       ['orange']
+       ['orange'],
+       ['pineapple]
    ] */
 ```
 
