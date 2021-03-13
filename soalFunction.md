@@ -24,14 +24,14 @@ xxxxx
 Cek palindrome
 
 ```javascript
-function cekPalindrome(kata){
-    // code here
+function cekPalindrome(kata) {
+  // code here
 }
 
-// Test Case ->  
-console.log(cekPalindrome("katak")) // true
-console.log(cekPalindrome("baso")) // false
-console.log(cekPalindrome("kasur rusak")) // true
+// Test Case ->
+console.log(cekPalindrome("katak")); // true
+console.log(cekPalindrome("baso")); // false
+console.log(cekPalindrome("kasur rusak")); // true
 ```
 
 ## Soal 3
@@ -47,20 +47,20 @@ Contoh : let input = "5279312" -> [52,27,79,93,31,12]
 - findTheLargest : function utama mengahasilkan number
 
 ```javascript
-function splitToArray(string){
-    // code here
+function splitToArray(string) {
+  // code here
 }
-function findTheLargest(string){
-    let arrayNumbers = splitToArray(string);
-    // code here
-}    
+function findTheLargest(string) {
+  let arrayNumbers = splitToArray(string);
+  // code here
+}
 
 // test case ->
-console.log(findTheLargert("5275789312")) // 93
-console.log(findTheLargert("313282787")) // 87
-console.log(findTheLargert("19")) // 19
-console.log(findTheLargert("7")) // 7
-console.log(findTheLargert()) // Input number
+console.log(findTheLargest("5275789312")); // 93
+console.log(findTheLargest("313282787")); // 87
+console.log(findTheLargest("19")); // 19
+console.log(findTheLargest("7")); // 7
+console.log(findTheLargest()); // Input number
 ```
 
 ## Soal 4
@@ -68,14 +68,14 @@ console.log(findTheLargert()) // Input number
 Cari mean
 
 ```javascript
-function mean(arr){
-    // code here
+function mean(arr) {
+  // code here
 }
 
 // test case =>
-console.log(mean([1,2,3,4,5,6,7])) // 4.00
-console.log(mean([2.1,1.7,5.4)]) // 3.07
-console.log(mean()) // Masukkan angka
+console.log(mean([1, 2, 3, 4, 5, 6, 7])); // 4.00
+console.log(mean([2.1, 1.7, 5.4])); // 3.07
+console.log(mean()); // Masukkan angka
 ```
 
 ## Soal 5
@@ -90,21 +90,20 @@ Aplikasikan modular function dengan rincian sebagai berikut :
 - function stringFormater() -> function utama
 
 ```javascript
-
 let food = "nasi-goreng,nasi-uduk,nasi-kuning";
-/* 
+/*
  * Result => ["nasi goreng","nasi uduk","nasi kuning"]
  */
-function commaSeparator(str){
-    // code here
+function commaSeparator(str) {
+  // code here
 }
-function dashSeparator(arr){
-    // code here
+function dashSeparator(arr) {
+  // code here
 }
-function joinSpaces(arr){
-    // code here
+function joinSpaces(arr) {
+  // code here
 }
-function stringFormater(string){
-    // code here
+function stringFormater(string) {
+  // code here
 }
 ```
