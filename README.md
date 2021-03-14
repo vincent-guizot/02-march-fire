@@ -1,71 +1,28 @@
 # 02-march-fire
+
 Batch 2 Fullstack tahun 2021
 
-# TASK - ALGORITMA & PSEUDOCODE
+## Penilaian
 
-## 1
+Syarat keluluss
 
-Buat algoritma : How to make Indomie
+| No  | Score    | Score |
+| --- | -------- | ----- |
+| 1   | LMS      | 20%   |
+| 2   | Ujian Te | 30%   |
+| 3   | Tugas    | 50%   |
 
-## 2
+## Sessions : Basic Class
 
-Buat algoritma : How to cook Sirloin Steak
-
-## 3
-
-Buat algoritma dan pseudocode :
-Luas persegi panjang
-
-## 4
-
-Buat algoritma dan pseudocode :
-Volume bola
-
-## 5
-
-Buat algoritma : How to add, commit, push to Github
-
-# TASK - VARIABLES, OPERATIONS, JAVASCRIPT
-
-## 1
-
-Buat algoritma, pseudocode, dan codingan :
-Keliling persegi
-
-## 2 
-
-Buat algoritma, pseudocode, dan codingan :
-Luas permukaan balok
-
-# 3 
-
-Buat kodingan, untuk menjawab pertanyaan " Who are you ?" menggunakan variable.
-
-```javascript
-    //Code here
-    var name;
-    var age;
-
-    //Output
-    //My name is Vincent, and i'm 28 years old.
-```
-
-# 4
-
-Buat kodingan, untuk membuat random number. Range number 1 - 10.
-
-```javascript
-    //Code here
-    var number;
-
-    //Output 
-    //Your number is 1
-    //Your number is 5
-```
-
-# 5
-
-Buat kodingan, untuk membuat Nomor Induk mahasiswa.
-Rumus : <Nama_Mahasiswa><Nomor_Absen><Lulus/Tidak>
-Contoh : James15true
-dengan syarat nomor absen random, Range 1 - 50
+1. Algoritma dan Pseudocode
+2. Variables, Data Types
+3. Conditional
+4. Looping
+5. Arrays
+6. Function
+7. Objects
+8. ECMAScript 6
+9. OOP : I
+10. OOP : II
+11. MVC
+12. MVC
